@@ -1,3 +1,3 @@
 # hello-world
-练习Github的pull push
+practice pull and push on Github
 #### 2022.6.12 yyyy
